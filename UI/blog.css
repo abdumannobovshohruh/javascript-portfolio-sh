@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.list{
+    display: flex;
+    margin-top: 27px;
+}
+.list_item{
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+margin-left: 33px;
+text-align: right;
+color: #000000;
+cursor: pointer;
+}
+.aa{
+    text-decoration: none;
+    color: #000000;
+}
+.blog{
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+color: #21243D;
+padding-top: 106px;
+}
+.UI{
+font-weight: 500;
+font-size: 30px;
+line-height: 44px;
+color: #21243D;
+margin-top: 55px;
+}
+.febr{
+    padding-right: 30px;
+    border-right: 1px solid black;
+}
+.febr1{
+    margin-left: 26px;
+}
+.feb{
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+padding-top: 17px;
+color: #21243D;
+}
+.amet{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+.fa-brands{
+    height: 35px;
+    width: 35px;
+}
+.listt{
+    display: flex;
+    margin-top: 134px;
+}
+.co{
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: #21243D;
+}

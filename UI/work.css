@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.list{
+    display: flex;
+    margin-top: 27px;
+}
+.list_item{
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+margin-left: 33px;
+text-align: right;
+color: #000000;
+cursor: pointer;
+}
+.aa{
+    text-decoration: none;
+    color: #000000;
+}
+.work{
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    padding-top: 106px;
+}
+.de{
+    margin-top: 10px;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color: #21243D;
+}
+.y20{
+    margin-top: 20px;
+    width: 62px;
+    color: #FFFFFF;
+    text-align: center;
+height: 25px;
+background: #142850;
+border-radius: 16px;
+}
+.da{
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #8695A4;
+margin-left: 26px;
+padding-top: 16px;
+}
+.sectdi{
+    display: flex;
+}
+.imgg{
+    width: 100%;
+}
+.sectimg{
+    width: 100%;
+    margin-top: 22px;
+    padding-bottom: 35px;
+}
+.amet2{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+padding-top: 16px;
+}
+.fa-brands{
+    height: 35px;
+    width: 35px;
+}
+.listt{
+    display: flex;
+    margin-top: 134px;
+}
+.co{
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: #21243D;
+}

@@ -88,3 +88,7 @@ line-height: 21px;
 text-align: center;
 color: #21243D;
 }
+textarea{
+    border: 2px solid grey;
+    outline: none;
+}

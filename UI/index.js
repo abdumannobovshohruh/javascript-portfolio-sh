@@ -40,16 +40,16 @@
 //     })
 // }
 // getData()
-
-
-// let menu = document.querySelector(".menu")
-// menu.onclick = () => {
-//   menu.style.display = "block"
-//   menuL.style.display = "none"
-// }
-// let menuL = document.querySelector(".menuL")
-// menuL.onclick = () => {
-//   }
+let menu = document.querySelector(".menu")
+let sabzi = document.querySelector(".sabzi")
+sabzi.onclick = () => {
+  sabzi.style.display = "none"
+  qulupnay.style.display = "block"
+  menu.style.display = "none"
+}
+let qulupnay = document.querySelector(".qulupnay")
+menuL.onclick = () => {
+  }
 
 
 const getData = async () => {

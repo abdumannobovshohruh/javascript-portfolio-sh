@@ -40,9 +40,10 @@ line-height: 24px;
 color: #21243D;
 padding-top: 40px;
 }
-.imgd{
-    margin-top: 180px;
-    margin-left: 115px;
+.photo{
+    margin-top: 100px;
+    width: 450px;
+   border-radius: 50%;
 }
 .down{
 font-weight: 500;
@@ -181,18 +182,24 @@ color: #21243D;
 }
 
 
-/* Resposive */
+/*              Resposive         */
 @media (max-width: 575px ) {
-    .imgd {
-        margin-top: 180px;
-        margin-left: 54px;
+    .imgd{
+        margin-top: 150px;
+        margin-bottom: 50px;
     }
     .card1{
              height: 100%;
     }
-    .fa-bars{
+    .sabzi , .qulupnay{
         font-size: 25px;
         color: #FF6464  ;
+    }
+    .qulupnay{
+        display: none;
+    }
+    .sabzi{
+        display: block;
     }
     .hi {
         font-weight: 700;
@@ -201,4 +208,10 @@ color: #21243D;
         color: #21243D;
         padding-top: 50px;
     }
+    .photo{
+        margin: 0;
+        width: 100%;
+    }
 }
+
+
